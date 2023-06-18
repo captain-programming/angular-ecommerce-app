@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+/* toast-custom.css */
+@import '../node_modules/ngx-toastr/toastr.css';
+@import '../node_modules/animate.css/animate.min.css';
+
+/* .toast-success {
+  background-color: #51a351 !important;
+  color: #fff !important;
+}
+
+.toast-error {
+  background-color: #f33228 !important;
+  color: #fff !important;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: 500;
+  font-family: DM sans-serif;
+}
+
+.toast-info {
+  background-color: #2f96b4 !important;
+  color: #fff !important;
+}
+
+.toast-warning {
+  background-color: #f89406 !important;
+  color: #fff !important;
+} */
+
+/* .toast-custom {
+  Your custom styles for the toast container
+} */

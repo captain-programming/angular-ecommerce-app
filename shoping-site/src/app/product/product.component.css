@@ -1,0 +1,46 @@
+.row{
+  width: 90%;
+  margin: auto ;
+  margin-top: -200px;
+}
+
+.row .card .card-img-top{
+  height: 250px;
+}
+
+.row .card .card-title{
+  cursor: pointer;
+}
+.row .card .card-title:hover{
+  color: rgb(214, 85, 25);
+}
+
+.rating {
+  display: inline-block;
+  font-size: 1rem;
+}
+
+.star {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.25em;
+  background-color: transparent;
+  color: #ccc;
+}
+
+.star.filled {
+  color: #F2921E;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.pagination-container .page-link {
+  padding: 10px 20px;
+}
